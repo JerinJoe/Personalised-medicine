@@ -1,2 +1,3 @@
 # Personalised-medicine
-Prototype to create personalised medicine in pythong
+Prototype to create personalised medicine in python
+
